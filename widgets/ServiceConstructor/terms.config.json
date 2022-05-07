@@ -1,0 +1,600 @@
+{
+  "pageTitle": "Terms of use",
+  "elements": [
+    {
+      "id": "1982a472-bf15-4371-bf21-cddd6cf4a911",
+      "type": "Title",
+      "text": "1. AREA OF APPLICATION"
+    },
+    {
+      "id": "e6504822-c2e9-44d6-b006-f3002dea48b7",
+      "type": "Description",
+      "text": "1.1 These terms of use apply to the game “Fantasy Town” (“game”) published by gamigo Publishing GmbH (“provider”)."
+    },
+    {
+      "id": "6fbccd6d-21ef-467d-8385-5cc34fbc9eb0",
+      "type": "Description",
+      "text": "1.2 The provider contravenes the validity of any of the user’s terms and conditions. Subsequently, any of the terms and conditions on the part of the user shall only constitute a part of this contract if the provider explicitly agrees to this in writing."
+    },
+    {
+      "id": "0219ad31-8237-4c09-966f-16d5bc159d35",
+      "type": "Description",
+      "text": "1.3 Any additional terms and conditions, game rules, preconditions for participation and communication rules for Fantasy Town (jointly: “game rules”) have been published on the provider’s websites or in the game where necessary. By participating in Fantasy Town, the user also acknowledges these game rules in a legally binding manner. In the event of there being any contradictions between these terms of use and the game rules, the terms of use take precedence over the game rules unless the game rules explicitly stipulate priority over the terms of use"
+    },
+    {
+      "id": "0d66d05d-0c39-4e86-8216-359f279d7d04",
+      "type": "Description",
+      "text": "1.4 The provider may arrange competitions, tournaments, sweepstakes and other special promotions within the game. These may be subject to separate provisions that the user will be referred to, if required."
+    },
+    {
+      "id": "fb739740-e1e3-45e0-8174-80a4f5521f83",
+      "type": "Description",
+      "text": "1.5 The provider may make use of services provided by third-parties (“third-party services”), such as app stores and social networks for the game, for example: Facebook SDK. Third-party services may be subject to the third-party provider’s terms and conditions. The user’s contractual partner for third-party services is the third-party provider in question."
+    },
+    {
+      "id": "0d48d3bc-0f5e-486c-9073-3f6eae566526",
+      "type": "Title",
+      "text": "2. DESCRIPTION OF GAME"
+    },
+    {
+      "id": "fc75fd14-7660-4698-8370-821fda42e799",
+      "type": "Description",
+      "text": "2.1 “Games”, for the purpose of these terms of use, are all of the online games, browser games, mobile games, social media games and any other digital offers of games for any end devices (e.g. PCs, smartphones, tablets, connected devices such as streaming or set-top boxes and smart TVs) and/or online platforms (such as social networks)."
+    },
+    {
+      "id": "1f689137-e4a9-40cd-b06d-783f3025e466",
+      "type": "Description",
+      "text": "2.2 The “games”, as defined above, also include, where necessary, any additional services such as the acquisition of digital currency, which can be exchanged for purchasing digital objects, downloadable content, additional packets, additional functions, server changes, in-game name changes or any other additional functions (jointly: “premium features”), purchasing subscriptions, purchasing virtual objects in exchange for real currency as well as other additional services, in particular communicating with other players (e.g. forums, chat, user profile pages rankings etc.)."
+    },
+    {
+      "id": "e2009975-9ce9-4733-aab9-a7c472515fe3",
+      "type": "Title",
+      "text": "3. SCOPE OF SERVICE"
+    },
+    {
+      "id": "d928ded4-3058-46c6-ada1-572463ef7e22",
+      "type": "Description",
+      "text": "3.1 The provider offers the user the ability to use the current version of game, whether fee-based or free of charge, in the context of the technical and operational options available, in accordance with these terms and conditions."
+    },
+    {
+      "id": "4298fcf9-4521-455b-9196-bc79dbe7bc3b",
+      "type": "Description",
+      "text": "3.2 The provider guarantees that the game can be accessed 95% of the time on average over the course of the year. This excludes times when the servers for the game are unable to be accessed due to problems of a technical nature or otherwise, for which the provider is not to blame (e.g. force majeure, third-party responsibility etc.). Furthermore, routine maintenance times are also excluded. The provider may limit access to the game if this is required for ensuring the network’s operability, for upholding the integrity of the network and, in particular, for avoiding any serious disruptions to the network, the software or saved data; these times will also not be taken into account when calculating availability. The provider’s liability for a server not being available in the event of wilful intent and gross negligence shall remain unaffected. It may not be possible to use the provider’s game, for legal or licencing reasons, in other countries."
+    },
+    {
+      "id": "da369cf3-d3f0-4e81-bcf7-58616af30cd1",
+      "type": "Description",
+      "text": "3.3 Due to the diversity of end devices, system configurations, network operators and operating systems it is not possible to verify and ensure that the game will be able to run on all configurations. The provider suggests that the user consult the system requirements and compatibility information that has been published by the provider in addition to the discussion forums and frequently asked questions pages (FAQs) for the game in question. New versions may have an effect on the system requirements and compatibility requirements for the game in question."
+    },
+    {
+      "id": "43120b57-174e-4c24-a563-5a9434ce63b7",
+      "type": "Description",
+      "text": "3.4 The user shall not have a claim to a particular status or range of services for the game being maintained or brought about (e.g. game progress, high scores, achievements). Any claims for defects on the part of the user, which have an impact on the game’s technical playability, shall remain unaffected. Due to the fact that games are constantly being redeveloped, the provider reserves the right to offer new virtual currencies and premium features and/or to stop offering them, to change them or to make them available in the free basic version."
+    },
+    {
+      "id": "07cbda49-0765-4126-bd61-b43bea908463",
+      "type": "Title",
+      "text": "4. ELIGIBLE USERS"
+    },
+    {
+      "id": "4f009f63-5623-4140-8c11-11052e8ce02e",
+      "type": "Description",
+      "text": "4.1 The game offered by the provider are aimed solely at consumers. Using the game for commercial purposes is not permitted. Any participation in the game is for entertainment purposes only."
+    },
+    {
+      "id": "9939d056-de55-4c65-8fd6-6938f3312356",
+      "type": "Description",
+      "text": "4.2 Only adults or individuals whose legal guardians have consented to them using the game are eligible. All individuals whose accounts or game registration have been blocked by the provider are explicitly not eligible to play. If a user is underage, then he/she shall confirm that his/her legal guardian has provided consent. The provider shall be entitled, although not obliged, to request written evidence of the user being an adult or of the legal guardian’s declaration of consent at any time. As soon as an underage user uses his/her account after having become an adult, then all contracts concluded before becoming an adult in connection with his/her account shall be deemed to have been approved."
+    },
+    {
+      "id": "0d65e87d-4dc7-4246-b214-a55c9a78445d",
+      "type": "Title",
+      "text": "5 CONCLUDING CONTRACTS / LINKING ACCOUNT TO A SOCIAL NETWORK"
+    },
+    {
+      "id": "fba555e5-e4ca-4ec8-8c16-679742e2bb89",
+      "type": "Description",
+      "text": "5.1 Unless a contract has already been concluded with the user in another manner, the user submits an offer for the contract on using the game is concluded when download the game e.g. from a third party like, for example,Google (Google Play) or Apple (Itunes) (“user’s application”). The provider can approve the user’s application by enabling the user to play the game. Approval means that the contract between the user and the provider comes into effect."
+    },
+    {
+      "id": "a2cc3bee-3dcf-4089-905f-0815576bcf27",
+      "type": "Description",
+      "text": "5.2 By linking the account to a social network, the player’s personal data will be made available by the social network in question to the provider. Any additional information on data collection and data use can be found in the data protection notes for the game and social network in question."
+    },
+    {
+      "id": "60c1646b-dca2-4859-a43e-61aad23c7878",
+      "type": "Description",
+      "text": "5.3 By concluding the contract, the game rules for the game in question become binding between the relevant provider and user. The provider is entitled to adjust the game rules in the context of the game’s continued development. This will involve the provider taking the user’s legitimate interests into account in an appropriate manner. The adjustment will be carried out by notifying the customers."
+    },
+    {
+      "id": "f0e60bda-817d-4241-9f9c-dc67f0ec47aa",
+      "type": "Description",
+      "text": "5.4 The provider does not make provisions for separately storing the text of the contract. The terms of use may be viewed at any time on the provider’s and individual website of the game in a storable and printable form. The user can also receive the terms of use by email if the provider is asked to do so."
+    },
+    {
+      "id": "71c0df41-cf90-4b27-9815-9ef6c3df91e1",
+      "type": "Description",
+      "text": "5.5 The user shall not have a claim to a contract being concluded for setting up an account, for taking part in games or for using the virtual currency or premium features that are included."
+    },
+    {
+      "id": "2dc4cfe3-2d45-45d8-9258-1da79f188af7",
+      "type": "Title",
+      "text": "6. ACQUIRING VIRTUAL CURRENCY / PREMIUM FEATURES"
+    },
+    {
+      "id": "4a39d0f7-ec6c-4c19-a5a7-a8b97df55304",
+      "type": "Description",
+      "text": "6.1 In principle, the user may use the game free of charge (known as “Free 2 Play” in these terms of use). In addition to this, the user may also buy virtual currency and premium currency associated with the game. If a service is fee-based, then the user will be informed of the costs, conditions of payment and other relevant details before using the service. When acquiring virtual currency or premium features via an app-store, a social network or third-party services, the corresponding conditions there will apply."
+    },
+    {
+      "id": "8153f691-bfa0-4182-a3e6-781d8a5b21f0",
+      "type": "Description",
+      "text": "6.2 Premium features that can be used in the game may be subject to specific fixed terms and expire. The periods in question will be clearly indicated when making the purchase."
+    },
+    {
+      "id": "ded7152e-67b7-417b-9d61-0d4da65a8de2",
+      "type": "Description",
+      "text": "6.3 The user submits an offer to purchase virtual currency or premium features by choosing the type and quantity on the order site and by clicking the order button in the game or at the location where the provider offers virtual currency. The purchasing agreement will come into effect as a result of the provider carrying out the order and crediting the account with the corresponding virtual currency or premium features. This results in an additional contractual relationship. The current terms of use shall also apply to this contractual relationship as well as any additional conditions that the provider informs the user of before utilizing the corresponding premium features."
+    },
+    {
+      "id": "fda7bc42-c6bc-43c1-92b4-ebaac6f84268",
+      "type": "Description",
+      "text": "Should it not be possible for the user to temporarily access any purchased subscriptions in the context of the availability owed in accordance with part 3.2, then downtimes of this nature shall not be amended to the fixed term of the subscription."
+    },
+    {
+      "id": "ef3a8958-3de9-4c3f-963e-2513138b950b",
+      "type": "Title",
+      "text": "7. CANCELLATION POLICY"
+    },
+    {
+      "id": "061ae6f0-fd3a-45ba-9c74-9b2347b98022",
+      "type": "Description",
+      "text": "If the user is a consumer normally resident in the European Union, then he/she shall be legally entitled to the right to cancel in accordance with the following cancellation policy:"
+    },
+    {
+      "id": "9b97ce9e-4258-451a-a51a-aaa0f9082ea9",
+      "type": "Description",
+      "text": "7.1 Cancellation policy"
+    },
+    {
+      "id": "c536f720-65e0-4f20-8a20-75bb68996fad",
+      "type": "Description",
+      "text": "Cancellation right"
+    },
+    {
+      "id": "24724e54-3b90-4a94-8a55-e3cb674f5a2f",
+      "type": "Description",
+      "text": "You have the right to cancel this contract within fourteen days without needing to provide any reasons."
+    },
+    {
+      "id": "7eddecdd-3224-4b81-8c27-efd739030e93",
+      "type": "Description",
+      "text": "The cancellation period amounts to fourteen days from the day that the contract was concluded.\n\n"
+    },
+    {
+      "id": "9fc77978-1135-455d-b38c-6043fb2a78d6",
+      "type": "Description",
+      "text": "In order to exercise your cancellation right, you must inform the provider of the game in question (contact details: <a href='/imprint.html'>Imprint</a>), by means of an unambiguous declaration (e.g. a letter sent by post, fax or email) of your decision to cancel this contract. You may use the <a href='https://webcdn.gamigo.com/landingpages/fantasy-town/withdrawal-form-EN.pdf'>attached sample cancellation form</a>, although this is not required.\nFor the purposes of ensuring the cancellation period you only need to send notification of you exercising the cancellation right before the cancellation period has expired."
+    },
+    {
+      "id": "2af787bb-504a-4772-ac3c-aea68137e4ba",
+      "type": "Description",
+      "text": "Consequences of cancellation"
+    },
+    {
+      "id": "d2b2a404-5b0f-44c5-917e-5e91056aec5e",
+      "type": "Description",
+      "text": "If you cancel this contract, we must immediately refund all payments to you, which we have received from you, including the delivery costs (with the exception of the additional costs resulting from you choosing a delivery method other than the most economical standard delivery option) no later than within fourteen days from the day on which we received your notification of cancelling the contract. We shall use the same payment method for the refund that you yourself used when making the original payment unless anything else was explicitly agreed with you to the contrary. You will not be charged under any circumstances for the refund."
+    },
+    {
+      "id": "80806f03-2faa-4ddf-bad9-6b50a4324962",
+      "type": "Description",
+      "text": "7.2 Premature lapsing of the cancellation right"
+    },
+    {
+      "id": "80806f03-2faa-4ddf-bad9-6b50a4324962",
+      "type": "Description",
+      "text": "Your cancellation right shall lapse prematurely in the case of a contract for the delivery of digital content not physically located on a data medium if you have explicitly agreed to us carrying out the contract before the expiry of the cancellation period and if you have consciously acknowledged that you will lose your cancellation right when the contract starts."
+    },
+    {
+      "id": "183529fa-d9f5-4881-b6e2-841b8d37fdfc",
+      "type": "Description",
+      "text": "7.3 Cancellation form"
+    },
+    {
+      "id": "6fb16997-29c2-419f-9ad1-fe272a1e39aa",
+      "type": "Description",
+      "text": "You can access the sample cancellation form <a href='https://webcdn.gamigo.com/landingpages/fantasy-town/withdrawal-form-EN.pdf'>here</a>."
+    },
+    {
+      "id": "d0440e1a-6897-4326-b999-5983540ce310",
+      "type": "Title",
+      "text": "8. PROHIBITED ACTIVITIES"
+    },
+    {
+      "id": "6215a900-ab28-414f-8ee3-e23e18931a44",
+      "type": "Description",
+      "text": "8.1 The game is intended to be solely for non-commercial purposes. Any use for, or in connection with, commercial purposes (e.g. propagating adverts for third-party games) is prohibited unless this use was explicitly agreed to in writing beforehand by the provider."
+    },
+    {
+      "id": "91e99b84-e0d3-4f56-a585-aa79718cc08d",
+      "type": "Description",
+      "text": "8.2 In addition to this, any activities in connection with the game, which violate applicable law, infringe upon third-party rights or infringe upon the principles of child protection are also prohibited. The following actions are specifically prohibited:"
+    },
+    {
+      "id": "d8ba5e9b-b525-4913-928e-0a797c6d5631",
+      "type": "Description",
+      "text": "configuring, propagating, offering and soliciting pornographic content, games, services and/or products, which violate child protection laws, data protection laws and/or any other law, and/or which are fraudulent;"
+    },
+    {
+      "id": "972eb566-dff1-4e86-9727-634412f95fe3",
+      "type": "Description",
+      "text": "using content that may offend or defame other users or third parties;"
+    },
+    {
+      "id": "28aae7a4-aeb7-4b92-823a-71db982c22b5",
+      "type": "Description",
+      "text": "using, providing and propagating content, games, services and/or products, which are legally protected or which are subject to third-party rights (e.g. property rights), without being explicitly entitled to do so."
+    },
+    {
+      "id": "4b42b998-85b3-4d22-bce1-5361aeda8336",
+      "type": "Description",
+      "text": "8.3 Furthermore, the following activities are also forbidden irrespective of any legal violation when using the game and when communicating with other users (e.g. as a result of sending personal messages):"
+    },
+    {
+      "id": "97d45331-8adf-4181-8848-8cf41b19b92a",
+      "type": "Description",
+      "text": "propagating viruses, trojans and other harmful files;"
+    },
+    {
+      "id": "1eaa6171-3cbd-46d6-ae99-2403962f687c",
+      "type": "Description",
+      "text": "sending junk or spam messages as well as chain letters;"
+    },
+    {
+      "id": "a2cd131e-8f49-468b-8697-5606ea37c30b",
+      "type": "Description",
+      "text": "propagating offensive, indecent, sexual, obscene or defamatory content or communications as well as any content or communications that promote or supports racism, extremism, hate, physical violence or illegal acts (whether explicit or implicit);"
+    },
+    {
+      "id": "01f2447d-0ea4-4b4d-af07-52de39456698",
+      "type": "Description",
+      "text": "harassing other participants, e.g. by means of repeated personal contact without, or contrary to, the reaction of the other participants as well as promoting or supporting said harassment;"
+    },
+    {
+      "id": "766ba6dc-fd50-42ee-82ba-37d8e4e9837a",
+      "type": "Description",
+      "text": "the request of other participants to hand over passwords or personal data for commercial or illegal purposes;"
+    },
+    {
+      "id": "e04f91a3-79ce-4c1b-adf0-f008335a756a",
+      "type": "Description",
+      "text": "propagating and/or publicly reproducing the content available in the game, unless this is explicitly permitted by the author or explicitly made available as a function of the game in question."
+    },
+    {
+      "id": "13829503-255c-4b3b-aaf5-13a34c574ffd",
+      "type": "Description",
+      "text": "8.4 Any act aimed at negatively affecting the smooth running of the game is also prohibited, especially overloading the provider’s systems. In particular, the following acts are prohibited:"
+    },
+    {
+      "id": "3f91800c-86c8-4a69-ab29-187709e6ad74",
+      "type": "Description",
+      "text": "using or advertising tools which interfere with scoring or the course of play (so-called “bots”, “hacks” or “cheats”),"
+    },
+    {
+      "id": "15b0a815-b384-4c85-ab76-b703432060a7",
+      "type": "Description",
+      "text": "completely or partially blocking, overwriting, diverting or modifying the game and content made available by the provider,"
+    },
+    {
+      "id": "3095438c-9798-4112-98cd-98601488b2d9",
+      "type": "Description",
+      "text": "deliberating exploiting programming errors for personal gain (so-called “exploits”)."
+    },
+    {
+      "id": "02817396-f252-42e1-ac46-25d4441c5b21",
+      "type": "Description",
+      "text": "8.5 If the user becomes aware of the game being used in an illegal or improper manner, of them being used against the terms of the contract or being misused in any other way, then he/she may inform the provider at any time. The provider will then investigate the event and take appropriate measures, where necessary. Should there be any suspicion of illegal or punishable acts, then the provider will be entitled and, where necessary, obliged to review the user’s activities and take appropriate legal steps. This may include the matter being referred to the Crown Prosecution Service."
+    },
+    {
+      "id": "4be4f393-fcd1-4cd8-ad16-7bf29d8bd24f",
+      "type": "Title",
+      "text": "9. USER CHARGES"
+    },
+    {
+      "id": "ed90778f-468a-4937-a5fa-5512a3b45042",
+      "type": "Description",
+      "text": "9.1 For payment, the provider also offers a variety of different payment options (e.g. payment in advance, PayPal, payment via credit cards), whereby the user shall not have a claim to the same payment method being offered at all times. If the payment is made through a payment service provider (e.g. PayPal) then only the terms of use and terms and conditions for the relevant provider shall apply to the payment."
+    },
+    {
+      "id": "83d6c7a9-e689-4844-9db4-5610370ebe3b",
+      "type": "Description",
+      "text": "9.2 Subscription services (e.g. membership) will be rendered during the agreed upon fixed term. In accordance with this, the fixed term will be automatically extended by the original fixed term until the user cancels the subscription. If the user fails to meet his/her payment obligations then his/her access to the game will be limited to the Free 2 Play functions. In this case, any claims that have already arisen on the part of the provider against the user shall remain unaffected by payment from the subscription contract and will not expire."
+    },
+    {
+      "id": "38500bf6-9d17-4e2e-a990-9c7334fb1e43",
+      "type": "Description",
+      "text": "9.3 The user shall only have the right to offset any claims against the provider with undisputed or legally established counterclaims. The user may only exercise a right of retention if his/her counterclaim relates to the same contractual relationship."
+    },
+    {
+      "id": "29e44146-e8a7-40f0-a5ee-8fc102aecdfe",
+      "type": "Description",
+      "text": "9.4 All payments shown include statutory applicable VAT."
+    },
+    {
+      "id": "7479cc92-08ee-41d4-9018-c5508701aa62",
+      "type": "Description",
+      "text": "9.5 The provider shall be entitled to adjust the user fees for the contractually agreed upon services in accordance with the following: The user will be informed of any price changes in the fixed-term contracts at least four weeks before they come into effect by means of written declaration or email. The user has a four-week extraordinary right to terminate the contract at the moment of the price change from the date of the written declaration. The provider shall make reference to this right in the written declaration. Should the user not avail himself/herself of this right, then the change in price shall be deemed to have been approved. Price reductions shall apply from the date announced for the next accounting period."
+    },
+    {
+      "id": "18695e30-e696-4c8b-bd38-45bf9a2aea34",
+      "type": "Title",
+      "text": "10. USER OBLIGATIONS AND RESPONSIBILITIES"
+    },
+    {
+      "id": "41936191-05d3-4ae7-8b85-33b3b1763f58",
+      "type": "Description",
+      "text": "10.1 As a rule, the provider will communicate with users by ingame message within the game, unless anything else has been determined to the contrary in these terms of use or in any other agreement. The provider reserves the right to choose another suitable means of corresponding (e.g., email)."
+    },
+    {
+      "id": "b65b767d-1fdf-4dab-a780-c3574a0d623a",
+      "type": "Description",
+      "text": "10.2 It is the user’s responsibility to choose a username that do not allow his/her identity or real name to be inferred."
+    },
+    {
+      "id": "9361dd14-8fa2-49e1-be9d-1322ee5193b4",
+      "type": "Title",
+      "text": "11. LIMITATION OF LIABILITY"
+    },
+    {
+      "id": "b4510346-ef31-4819-bda8-62ff0f929428",
+      "type": "Description",
+      "text": "11.1 If the provider requests payment for services, then the provider shall only have unlimited liability for compensation in the event of wilful intent and gross negligence. In the event of fundamental contractual obligations being infringed upon, then the provider shall also be liable in the event of minor negligence. Fundamental contractual obligations, including so-called cardinal obligations in terms of case law, are to be understood as being obligations which allow for the contract to be carried out correctly and which the user may rely on to be fulfilled."
+    },
+    {
+      "id": "b2b2577b-6e88-4eb2-afda-4e8df52a914c",
+      "type": "Description",
+      "text": "11.2 If the provider renders services free of charge, then the provider shall only be liable for compensation in the event of damages caused under gross negligence or wilful intent."
+    },
+    {
+      "id": "bdd5656e-6ee8-466a-9532-84d5300a899a",
+      "type": "Description",
+      "text": "11.3 The compensation obligation is limited to the foreseen damages for fundamental contractual obligations being infringed upon."
+    },
+    {
+      "id": "b65c983c-cd6b-4d4e-97b3-868b3ebd26d4",
+      "type": "Description",
+      "text": "11.4 The above-mentioned limitations of liability shall not apply to liability for loss of life, physical injury and damage to health or in the event of a guarantee being assumed by the provider or in the event of liability in accordance with the German Product Liability Act. The provider’s liability in the scope of application of § 44a TKG (Telekommunikationsgesetz [German Telecommunications Act]) shall remain unaffected.\n\n"
+    },
+    {
+      "id": "9045aafb-a199-473d-8a5e-f247afba2c22",
+      "type": "Description",
+      "text": "11.5 The above-mentioned exclusions or limitations of liability shall also apply in view of the liability of the provider’s employees, employers, colleagues, representatives and vicarious agents, especially to the benefit of the shareholders, colleagues, representatives, bodies and their members, which affects their personal liability."
+    },
+    {
+      "id": "c0fa2d36-0bae-42bd-975e-a6d643a0de49",
+      "type": "Title",
+      "text": "12. THIRD-PARTY CONTENT / RESPONSIBILITY"
+    },
+    {
+      "id": "267fe29a-dcfc-4196-9c1f-0587435a05cc",
+      "type": "Description",
+      "text": "12.1 The provider shall not undertake a review of the contents for completeness, correctness, legality, being up-to-date, quality and suitability for a specific purpose. The provider shall only make the technical platform available for publishing the contents employed by the users. Therefore, the provider shall not be responsible for third-party content or any content for which the provider only mediates access or the content of which the provider passes on unchanged. This shall also apply to the unaltered intermediate storage of third-party content. The provider makes it clear to the user that the provider shall only review content if the provider has been made aware of its illegality. The provider explicitly calls upon all users to report illegal content to customer support at <a href='mailto:Support-Fantasy-Town@gamigo.com'>Support-Fantasy-Town@gamigo.com</a>."
+    },
+    {
+      "id": "3c7be7ff-0fc4-49be-bcff-6ade5f1b4a4e",
+      "type": "Description",
+      "text": "12.2 Therefore, the user hereby declares and guarantees to the provider that he/she is the sole holder of all rights to the content used by him/her in the game or is otherwise entitled (e.g. by means of the copyright holder’s valid permission) to use the content in the game."
+    },
+    {
+      "id": "a5bad861-9d6e-42ff-8c54-b1654055810a",
+      "type": "Title",
+      "text": "13. COMMERCIAL PROPERTY RIGHTS AND COPYRIGHTS / USER-GENERATED CONTENT"
+    },
+    {
+      "id": "2dac528b-25a6-4b72-93fc-ae6bfe57c689",
+      "type": "Description",
+      "text": "13.1 The provider shall make the software partially available to the user as part of using the game. In this regard, the provider shall grant the user the non-exclusive right, which is restricted to the duration of using the game, to use this software as part of a non-commercial application on his/her respective end device. The user may only create copies of the software for personal backups and archiving unless the provider explicitly allows the issuer to propagate the software. The user shall be obliged to maintain the references to intellectual property contained in copies of the software and to observe all applicable laws for using the software."
+    },
+    {
+      "id": "c3b614e5-086c-45e1-a109-3a03256530e1",
+      "type": "Description",
+      "text": "13.2 The user is not permitted to copy (with the exception of making necessary backup copies), distribute, sell, auction, lease, lend, rent out, or change the game or the software in whole or in part or to create derived works, to process, translate, perform, exhibit, sublicense or to transfer it as a whole. The user is not permitted to reproduce the game or the software for payment or to make it available to third parties for payment or to grant the game or the software or any of the rights thereto for payment or to rent or transfer it any form to third parties for payment or to change, translate, reverse engineer, decompile or disassemble it or to create any other derived works based on the game or software. § 69e UrhG (Urheberrechtsgesetz [German Copyright Act]) shall remain unaffected."
+    },
+    {
+      "id": "79b4724c-9131-47fb-a439-05a446a824aa",
+      "type": "Description",
+      "text": "13.3 The intellectual property rights for all contents of the game - with the exception of the contents used by the user - as well as any other property rights in the game or the software shall remain the property of the provider and/or its suppliers and licensors."
+    },
+    {
+      "id": "2e8b7e4a-3740-4160-84e6-794c5cb46759",
+      "type": "Description",
+      "text": "13.4 The agreements on additional licencing provisions for the game or the software, which the user may accept before using the game, shall remain unaffected by the aforementioned regulations."
+    },
+    {
+      "id": "fa396c3b-fe2d-47f1-b7dd-59debb541887",
+      "type": "Description",
+      "text": "13.5 The provider shall allow the user, on a revocable basis, to create master copies for user-generated content from the contents of the game and to distribute them without any restrictions. This shall apply as long as the game and provider are not disparaged. This permission expressly does not relate to the source code or any other parts of the game that are not public, especially its programming logic. Master copies include game content, game scenes, characters, text, locations, maps, graphics, animation, sounds, cinematography, musical words and images and photos. Any user-generated content of this nature is represented by, for example, user-commented videos created during play (“Let’s-Play Videos”) or the sharing of images from within the game on social networks or their publication on fan-sites or in fan forums. The provider only permits the usage of master copies for personal, but not commercial purposes. This permission may not be transferred. In this case, advertising for the operator of a platform that is independent of the user, for example advertising on video portals, is not to be considered commercial use if the user has no influence on it. This permission may be freely revoked by the provider at any time. Any kind of ongoing, commercial use shall only be possible with the provider’s prior written consent. Please contact <a href='mailto:pr@gamigo.com'>pr@gamigo.com</a> in this regard."
+    },
+    {
+      "id": "b84d3171-5d93-4ed1-87e5-b90ade8285c1",
+      "type": "Description",
+      "text": "13.6 The user grants the provider, if doing so is required for rendering the contractual services, the right to reproduce and process the content that he/she has uploaded or configured for usage in the context of the game and on the user’s end devices, provided that this is necessary for conversion into a file format that is suitable for distribution and to publicise it, send it and to publicly reproduce it in any way, especially for making the content available to be accessed by any third party via the internet. Furthermore, the user grants the provider the right to allow any third parties to download the content onto their end devices and to use it there in accordance with the terms of the contract, and to grant the third parties the usage rights required to this end as well as any individual contents or excerpts, including for sneak previews for promoting the games and to reproduce, distribute and publicise the relevant content in this regard or to in any other way publicly reproduce it and grant third parties the necessary usage rights in this regard."
+    },
+    {
+      "id": "fc27a262-8807-482f-af7f-9eb10d4f1002",
+      "type": "Description",
+      "text": "13.7 The above-mentioned rights in accordance with part 14.6 are granted by means of configuring or uploading content to the game in question. The user hereby assures the provider that he/she has the right and is able to grant the usage rights to the extent listed above. The provider is entitled to request proof from the user of him/her possessing the necessary usage rights."
+    },
+    {
+      "id": "98dd503e-9590-4736-a8d1-859ca7770df9",
+      "type": "Title",
+      "text": "14. DURATION OF CONTRACT, TERMINATION"
+    },
+    {
+      "id": "2d439cc6-1ff3-4eec-aa89-0b34cf23b4cd",
+      "type": "Description",
+      "text": "14.1 Contracts for the Free 2 Play version of the gamemay be terminated by the user at any time by deleting his/her respective account."
+    },
+    {
+      "id": "10237c9a-40b4-4d70-8c35-09a2056c52c7",
+      "type": "Description",
+      "text": "14.2 Contracts on fee-based games may be cancelled by either party by complying with a termination period of seven working days, unless this is opposed by any provisions to the contrary for the duration and termination (e.g. for a subscription)."
+    },
+    {
+      "id": "ed49eff4-4cb5-47be-ae32-34855b57da78",
+      "type": "Description",
+      "text": "14.3 Subscription agreements are automatically extended by the original duration unless the user terminates the subscriptions no sooner than within five working days of the duration expiring.\nThe subscription is managed by Google (Google Play) and Apple (Itunes). If a termination is wished, the user needs to contact Apple and Google via their support platform. See more information here: Apple (<a href='https://support.apple.com/en-us/HT202039'>https://support.apple.com/en-us/HT202039</a>) and Google (<a href='https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid'>https://support.google.com/googleplay/answer/7018481?co=GENIE.Platform%3DAndroid</a>)."
+    },
+    {
+      "id": "299e1fd5-e412-46a2-9b35-ca584b240f72",
+      "type": "Description",
+      "text": "14.4 The user may ask the provider to delete his/her account at any time. If the user asks the provider to delete his/her account, then he/she also simultaneously terminates the usage agreement without notice. Any virtual currency purchased up to this time shall be forfeited for this kind of termination without the user having a right to compensation."
+    },
+    {
+      "id": "f790a7dd-d53e-4146-913d-587650a04214",
+      "type": "Description",
+      "text": "14.5 If the user terminates the subscription, the provider shall not refund the already paid for fees and not pay out the virtual credit in real currency, which has been credited to the user’s account, subject to the provisions of these terms of use."
+    },
+    {
+      "id": "cc713711-794a-4f8a-a86b-8065cad8d160",
+      "type": "Description",
+      "text": "14.6 The right of both parties to extraordinary termination for due cause shall remain unaffected by the above-mentioned regulations. In particular, the provider shall be entitled to terminate for due cause, if"
+    },
+    {
+      "id": "4074188c-f14f-4bad-8a7b-7a6beb81c259",
+      "type": "Description",
+      "text": "a. the user culpably violates any laws, these terms of use, the games rules and/or usage rules for virtual currencies or premium features and, despite warning, continues to regularly act in the same or a similar fashion;"
+    },
+    {
+      "id": "91dbe593-191c-42e9-a5cf-d11bf91497b0",
+      "type": "Description",
+      "text": "b. the user falls behind on payments to a value of at least EUR 10.00 and, despite two warnings, fails to pay;"
+    },
+    {
+      "id": "6a976942-f020-4027-a86a-d7233c89dfd0",
+      "type": "Description",
+      "text": "c. the user meets termination conditions no. a.or c. when using any of his/her other accounts;"
+    },
+    {
+      "id": "a0527639-50e6-40ee-a1b3-14013447be62",
+      "type": "Description",
+      "text": "d. third parties (e.g. social network operators) through which the user gains access to his/her account with the provider by means of the registration function, ask the provider to delete user data and/or take similar measures; if granting alternative access would be unreasonable for the provider;"
+    },
+    {
+      "id": "1d909bac-0f1c-4f9e-b665-ba1cc40f8feb",
+      "type": "Description",
+      "text": "e. third parties (e.g. social network operators) through which the user gains access to his/her account with the provider by means of the registration function, restrict the provider’s access to data, if granting alternative access would be unreasonable for the provider;"
+    },
+    {
+      "id": "a1f2cbf0-da12-4a41-8dfa-0a87744db724",
+      "type": "Description",
+      "text": "14.7 For serious violations, immediate termination is permitted without there being a need for a prior warning. A serious violation is a violation for which the provider cannot be expected to adhere to the contract. As a rule, this is"
+    },
+    {
+      "id": "6ca2debd-5c52-4e51-8867-b22b4fbf2f01",
+      "type": "Description",
+      "text": "a. if the user violates criminal laws;"
+    },
+    {
+      "id": "3ca94b4f-8cea-4add-9b66-08e111558026",
+      "type": "Description",
+      "text": "b. if the user uses the account or a game in an unpermitted manner;"
+    },
+    {
+      "id": "b56de382-337b-4c80-a91a-f83c01f65725",
+      "type": "Description",
+      "text": "c. if the user provides incorrect data when registering or when paying for fee-based services;"
+    },
+    {
+      "id": "e073e380-8e66-442b-94a8-f708fe2a6b95",
+      "type": "Description",
+      "text": "d. the user meets termination conditions no. a., b. or c. when using any of his/her other accounts;"
+    },
+    {
+      "id": "154266f9-58fb-4910-a640-502e768e7c03",
+      "type": "Description",
+      "text": "14.8 In event of the provider terminating, with justified pronouncement of termination for due cause, the provider shall be entitled to request a sum to the value of 75% of the total of all payments that the user would have paid had he/she terminated the contract whilst adhering to a notice period (for any services not yet rendered by the provider, especially for virtual currencies or premium features that have already been ordered). The user’s right to demonstrate that no damages, or significantly smaller damages have arisen, shall remain unaffected. If the user has already received the services to be rendered by the provider, then the user shall not have the right to a refund. There shall be no refund for any virtual currencies or premium features, which the user has ordered and already received from the provider."
+    },
+    {
+      "id": "b9b5d667-fbca-428d-b6f8-798c9c53e71c",
+      "type": "Description",
+      "text": "14.9 If the provider is responsible for the extraordinary termination and if the user still has virtual currency on his/her account to be played, then the provider will credit the virtual currency to any game chosen by the user that the provider offers. The option for a cash payment is precluded unless crediting to another of the provider’s games is not reasonable for the user, on a case-by-case basis, in consideration of the mutual interests of both parties, e.g. because an equivalent or similar game is not being offered. In this instance, the provider will refund the user the value of any virtual currency still on his/her account to the remaining value of the balance paid in by the user. Any further claims on the part of the user are excluded unless these terms of use determine anything to the contrary.\n\n"
+    },
+    {
+      "id": "a88ab980-84c7-4cc4-898c-0c51acac366b",
+      "type": "Description",
+      "text": "14.10 The provider shall be entitled to an exceptional right of termination in terms in the event of the provider losing the right to run the game, e.g. as a result of the relevant licencing agreement between the provider and the licensor coming to an end. In this instance, the provider may extraordinarily terminate all agreements related to using the game (e.g. usage agreement, availability and usage agreements for virtual currency and premium features) by the time that game operations are ended. Subsequent to this, the regulations shall apply in accordance with part 15.9. Any other termination rights shall remain unaffected."
+    },
+    {
+      "id": "e47e916d-956f-4031-83e6-9e97157bb07a",
+      "type": "Description",
+      "text": "14.11 Each termination must be made in writing (e.g. by post, email or contact form)"
+    },
+    {
+      "id": "32e1b60f-d040-4e23-ba31-b1570b0babad",
+      "type": "Description",
+      "text": "14.12 Any virtual currency or premium features granted free of charge are excluded from refunds as a matter of course."
+    },
+    {
+      "id": "d6d69b59-9490-4f07-86e8-d8002bd375a8",
+      "type": "Title",
+      "text": "15. DATA PROTECTION"
+    },
+    {
+      "id": "80525e6d-e2cf-4caa-b04c-ddb523c3e3d2",
+      "type": "Description",
+      "text": "The provider processes and uses the data collected from users at the moment the contract is concluded and as part of using the offer if they are necessary for correctly fulfilling the contract in accordance with the applicable data protection provisions. The data protection provisions of the provider in question shall apply."
+    },
+    {
+      "id": "ed3eab10-8c82-4d0b-8a05-dc489056f53c",
+      "type": "Title",
+      "text": "16. CHANGES TO THE TERMS OF USE"
+    },
+    {
+      "id": "9ca8a57a-fee0-4ad9-ae0f-d7b2218d0950",
+      "type": "Description",
+      "text": "16.1 The provider reserves the right to change or add to these terms of use at any time with effect for the future if this appears necessary and does not put the user at a disadvantage, in bad faith. In particular, a change may be necessary for carrying out adjustments to a change in the legal situation. Newly enacted court decisions shall be deemed to be a change in the legal situation. Changes and further developments to the game may make changing or expanding on the terms of use necessary."
+    },
+    {
+      "id": "739e7c57-1ada-4bc1-a791-9770ca334b0a",
+      "type": "Description",
+      "text": "16.2 Any change or addition will be announced at least six weeks in advance in a suitable manner in writing before coming into effect. As a rule, the notification for adjusting the terms of use is made by email or on the website of the game or in the game itself the next time that the user logs in to his/her account."
+    },
+    {
+      "id": "9bc4e648-cf7d-4561-8c0b-03d9da035677",
+      "type": "Description",
+      "text": "16.3 The user has the right to object to the provider to a change or addition within six weeks of the announcement and to oppose the option of becoming aware. For a timely objection, both parties shall be entitled to extraordinarily terminate the contract in accordance with this contract’s termination provisions. Any other termination rights shall remain unaffected. If the user fails to object within the objection period or continues to use the services, then the change or addition is deemed to have been accepted and becomes part of the contract"
+    },
+    {
+      "id": "ea14e77f-e516-45d7-a9b5-b396bbda712a",
+      "type": "Description",
+      "text": "16.4 The provider will explicitly inform the user of the changes to the terms of use in the notification of the option to object to the termination, the deadline and the legal consequences, in particular in terms of any objection that has not been enforced."
+    },
+    {
+      "id": "68384517-bb89-48d1-a9eb-b43935d22917",
+      "type": "Title",
+      "text": "17. FINAL CLAUSES"
+    },
+    {
+      "id": "89049afb-fc6d-4d77-9348-ed8af4e01490",
+      "type": "Description",
+      "text": "17.1 Users are not entitled to transfer their rights from this contractual relationship to third parties. Any provisions shall only apply to the contrary if the provider has explicitly agreed to them beforehand, in writing. The provider shall be entitled to transfer the rights and obligations arising from this contractual relationship to a third party. For a transfer of this nature, the user shall have the option to stop using the game without adhering to the notice periods. Any virtual currency on the account at this moment in time will be refunded to the user."
+    },
+    {
+      "id": "b1169357-c2e8-4745-b47a-f4877ff07116",
+      "type": "Description",
+      "text": "17.2 The laws of the Federal Republic of Germany exclusively shall apply to any contracts concluded on the basis of these terms of use and any claims in connection with this to the exclusion of the UN Sales Convention. If the user concluded the contract as a consumer, then the mandatory consumer protection regulations shall also apply for the state in which the user ordinarily resides if they grant the user further protection."
+    },
+    {
+      "id": "acd92cd0-a76a-4797-b38e-5b1500144924",
+      "type": "Description",
+      "text": "17.3 Should any individual provisions of these terms of use be or become invalid, then they shall not have any effect on the validity of the remaining provisions."
+    },
+    {
+      "id": "fc93d823-b637-40a6-8bde-102ddc40c803",
+      "type": "Description",
+      "text": "17.4 Any and all declarations that are conveyed in the context of the terms of use concluded with the provider must be made in writing."
+    }
+  ]
+}

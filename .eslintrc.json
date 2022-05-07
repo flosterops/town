@@ -1,0 +1,90 @@
+{
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-unused-vars": "off",
+    "jsx-quotes": ["error", "prefer-single"],
+    "no-multi-spaces": "error",
+    "no-extra-semi": "error",
+    "no-empty": "error",
+    "no-dupe-keys": "error",
+    "no-dupe-else-if": "error",
+    "no-cond-assign": "error",
+    "object-curly-spacing": ["error", "always"],
+    "no-duplicate-imports": "error",
+    "operator-linebreak": ["error", "before"],
+    "arrow-parens": ["error", "always"],
+    "brace-style": "error",
+    "no-redeclare": "error",
+    "multiline-ternary": ["error", "always-multiline"],
+    "key-spacing": [
+      "error",
+      {
+        "singleLine": {
+          "beforeColon": false,
+          "mode": "minimum",
+          "afterColon": true
+        },
+        "multiLine": {
+          "beforeColon": false,
+          "afterColon": true,
+          "mode": "minimum",
+          "align": "value"
+        }
+      }
+    ],
+    "require-await": ["off"],
+    "no-var": "error",
+    "prefer-const": ["error"],
+    "prefer-rest-params": ["error"],
+    "prefer-spread": ["error"],
+    "arrow-body-style": "error",
+    "camelcase": "error",
+    "capitalized-comments": "off",
+    "comma-dangle": ["error", "always-multiline"],
+    "eol-last": "error",
+    "eqeqeq": ["error", "smart"],
+    "id-match": "error",
+    "max-len": [
+      "error",
+      {
+        "code": 140
+      }
+    ],
+    "no-console": [
+      "error",
+      {
+        "allow": [
+          "warn",
+          "dir",
+          "time",
+          "timeEnd",
+          "timeLog",
+          "trace",
+          "assert",
+          "clear",
+          "count",
+          "countReset",
+          "group",
+          "groupEnd",
+          "table",
+          "debug",
+          "info",
+          "dirxml",
+          "groupCollapsed",
+          "Console",
+          "profile",
+          "profileEnd",
+          "timeStamp",
+          "context"
+        ]
+      }
+    ],
+    "no-eval": "error",
+    "no-trailing-spaces": "error",
+    "no-underscore-dangle": "error",
+    "comma-spacing": ["error", { "before": false, "after": true }],
+    "no-unsafe-finally": "error",
+    "space-before-function-paren": "error",
+    "spaced-comment": "error"
+  }
+}

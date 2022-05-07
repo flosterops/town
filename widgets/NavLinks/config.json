@@ -1,0 +1,17 @@
+[
+  {
+    "id": "bc1fbda5-d15a-4574-af41-864b9957f778",
+    "name": "Trailer",
+    "anchor": "trailer"
+  },
+  {
+    "id": "5cf39acc-18d9-4f59-b431-e9725b01eafa",
+    "name": "Newsletter",
+    "anchor": "newsletter"
+  },
+  {
+    "id": "c851f306-b405-49a1-8515-f7358c8403cd",
+    "name": "Features",
+    "anchor": "features"
+  }
+]

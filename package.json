@@ -1,0 +1,57 @@
+{
+  "name": "landing-constructor",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "export": "next build && next export",
+    "start": "next start",
+    "lint": "next lint",
+    "prettify": "prettier --write \"**/*.{ts,js,tsx,css,json}\"",
+    "lint-fix": "eslint ./ --fix"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@types/axios": "^0.14.0",
+    "@types/i18next": "^13.0.0",
+    "@types/react-dom": "^17.0.9",
+    "@types/react-slick": "^0.23.5",
+    "@types/styled-components": "^5.1.14",
+    "axios": "^0.21.4",
+    "detect-browser": "^5.2.1",
+    "husky": "^7.0.2",
+    "i18next": "^20.6.1",
+    "next": "11.1.2",
+    "next-i18next": "^8.8.0",
+    "prettier": "^2.4.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-loading": "^2.0.3",
+    "react-ripples": "^2.2.1",
+    "react-slick": "^0.28.1",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "17.0.21",
+    "babel-plugin-styled-components": "^1.13.2",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "typescript": "4.4.3"
+  },
+  "prettier": {
+    "jsxSingleQuote": true,
+    "tabWidth": 2,
+    "printWidth": 120,
+    "singleQuote": true
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "yarn prettify && yarn lint-fix"
+    }
+  }
+}
